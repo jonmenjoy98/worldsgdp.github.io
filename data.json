@@ -1,0 +1,338 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "United States",
+            "Billions": 2089,
+            "Latitude": 37.0902,
+            "Longitude": 95.7129
+        },
+        {
+            "id": 2,
+            "name": "China",
+            "Billions": 1472,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 3,
+            "name": "Japan",
+            "Billions": 506,
+            "Latitude": 36.2048,
+            "Longitude": 138.2529
+        },
+        {
+            "id": 4,
+            "name": "Germany",
+            "Billions": 385,
+            "Latitude": 51.1657,
+            "Longitude": 10.4515
+        },
+        {
+            "id": 5,
+            "name": "United Kingdom",
+            "Billions": 267,
+            "Latitude": 55.3781,
+            "Longitude": 3.4360
+        },
+        {
+            "id": 6,
+            "name": "India",
+            "Billions": 266,
+            "Latitude": 20.5937,
+            "Longitude": 78.9629
+        },
+        {
+            "id": 7,
+            "name": "France",
+            "Billions": 263,
+            "Latitude": 46.2276,
+            "Longitude": 2.2137
+        },
+        {
+            "id": 8,
+            "name": "Italy",
+            "Billions": 189,
+            "Latitude": 41.8719,
+            "Longitude": 12.5674
+        },
+        {
+            "id": 9,
+            "name": "Canada",
+            "Billions": 164,
+            "Latitude": 56.1304,
+            "Longitude": 106.3468
+        },
+        {
+            "id": 10,
+            "name": "South Korea",
+            "Billions": 163,
+            "Latitude": 35.9078,
+            "Longitude": 127.7669
+        },
+        {
+            "id": 11,
+            "name": "Russia",
+            "Billions": 148,
+            "Latitude": 61.5240,
+            "Longitude": 105.3188
+        },
+        {
+            "id": 12,
+            "name": "Brazil",
+            "Billions": 144,
+            "Latitude": 14.2350,
+            "Longitude": 51.9253
+        },
+        {
+            "id": 13,
+            "name": "Australia",
+            "Billions": 132,
+            "Latitude": 25.2744,
+            "Longitude": 133.7751
+        },
+        {
+            "id": 14,
+            "name": "Spain",
+            "Billions": 128,
+            "Latitude": 40.4637,
+            "Longitude": 3.7492
+        },
+        {
+            "id": 15,
+            "name": "Indonesia",
+            "Billions": 105,
+            "Latitude": 0.7893,
+            "Longitude": 113.9213
+        },
+        {
+            "id": 6.1,
+            "name": "Maharashtra",
+            "Billions": 34,
+            "Latitude": 19.7515,
+            "Longitude": 75.7139
+        },
+        {
+            "id": 6.2,
+            "name": "Tamil Nadu",
+            "Billions": 230,
+            "Latitude": 11.1271,
+            "Longitude": 78.6569
+        },
+        {
+            "id": 6.3,
+            "name": "Uttar Pradesh",
+            "Billions": 210,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.4,
+            "name": "Gujarat",
+            "Billions": 200,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.5,
+            "name": "Karnataka",
+            "Billions": 200,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.6,
+            "name": "West-Bengal",
+            "Billions": 150,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.7,
+            "name": "Rajasthan",
+            "Billions": 130,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.8,
+            "name": "Andhra Pradesh",
+            "Billions": 120,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.9,
+            "name": "Telangana",
+            "Billions": 120,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.10,
+            "name": "Madhya Pradesh",
+            "Billions": 120,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.11,
+            "name": "Kerala",
+            "Billions": 110,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.12,
+            "name": "Delhi",
+            "Billions": 100,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.13,
+            "name": "Haryana",
+            "Billions": 98,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.14,
+            "name": "Bihar",
+            "Billions": 74,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.15,
+            "name": "Odisha",
+            "Billions": 69,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.16,
+            "name": "Punjab",
+            "Billions": 68,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.17,
+            "name": "Chhattisgarh",
+            "Billions": 43,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.18,
+            "name": "Assam",
+            "Billions": 42,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.19,
+            "name": "Jharkhand",
+            "Billions": 40,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.20,
+            "name": "Uttrakhand",
+            "Billions": 32,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.21,
+            "name": "Jammu and Kashmir",
+            "Billions": 21,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.22,
+            "name": "Himachal Pradesh",
+            "Billions": 20,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.23,
+            "name": "Goa",
+            "Billions": 9.4,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.24,
+            "name": "Tripura",
+            "Billions": 7.0,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.25,
+            "name": "Chandigarh",
+            "Billions": 5.5,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.26,
+            "name": "Puducherry",
+            "Billions": 4.8,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.27,
+            "name": "Meghalaya",
+            "Billions": 4.3,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.28,
+            "name": "Manipur",
+            "Billions": 4.0,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.29,
+            "name": "Sikkim",
+            "Billions": 3.9,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.30,
+            "name": "Nagaland",
+            "Billions": 3.7
+        },
+        {
+            "id": 6.31,
+            "name": "Arunachal Pradesh",
+            "Billions": 3.5,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.32,
+            "name": "Mizoram",
+            "Billions": 3.1,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        },
+        {
+            "id": 6.33,
+            "name": "Andaman and Nicobar Islands",
+            "Billions": 1.2,
+            "Latitude": 35.8617,
+            "Longitude": 104.1954
+        }
+    ]
+}

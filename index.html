@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+    <title>List of Indian states by gdp</title>
+    <style>
+        *{
+            width: 100vw;
+        }
+        h1{
+            text-align: center;
+            display: flexbox;
+            flex-wrap: wrap;
+        }
+        #map{
+            width: 100vw;
+            height: 100vh;
+            justify-content: center;
+        }
+        .top1{
+            display: flex;
+            flex-direction: column;
+        }
+        .top1 li{
+            list-style: none;
+            text-align: center;
+            padding-top: 5px;
+            font-size: large;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="data">World's GDP & GDP of India's States</h1>
+    <div class="top1">
+        <ul>
+            <li>RED :- Top FIVE gdp countries</li><hr>
+            <li>GREEN :- Top TEN gdp countries</li><hr>
+            <li>YELLOW :- Top FIFTEEN gdp countries</li><hr>
+            <li>BLUE :- Top FIFTEEN gdp states in India</li><hr>
+            <li>VIOLET :- Remaining states gdp in India</li><hr>
+        </ul>
+    </div>
+    <div id='map'></div>
+    
+</body>
+
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoicmFqYTIxMTIiLCJhIjoiY2xiYzJnOTBxMG1vaTN2bzRnNmpybHdmeSJ9.uqijLQLIRFlU0asYVv6P5A';
+  var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        zoom: 1,
+        center: [0,20]
+      });
+</script>
+
+
+
+
+<script src="index.js"></script>
+</html>
